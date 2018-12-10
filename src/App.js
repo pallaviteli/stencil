@@ -39,7 +39,64 @@ class App extends Component {
             </div>
           </aside>
           <div className="row">
-            <div className="col-sm-12 col-md-12 col-lg-12">jkkjk</div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-3 col-lg-3">
+              <div className="row">
+                <div className="col-sm-12 col-md-12 col-lg-12 app-div">
+                  jkkjk
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
