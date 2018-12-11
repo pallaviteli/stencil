@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Funds Transfer",
+    "symbol": "./appJSONs/thumbnails/image1.jpg",
+    "keywords":
+      "banking fundstransfer retail rbwm allscreens"
+  },
+  {
+    "title": "Login",
+    "symbol": "./appJSONs/thumbnails/image1.jpg",
+    "keywords": "input userlogin login allscreens"
+  },
+  {
+    "title": "Calendar",
+    "symbol": "./appJSONs/thumbnails/image1.jpg",
+    "keywords": "calendar date dateandtime datetime"
+  },
+  {
+    "title": "Mailbox",
+    "symbol": "./appJSONs/thumbnails/image1.jpg",
+    "keywords": "mailbox email notification"
+  }
+ 
+]
